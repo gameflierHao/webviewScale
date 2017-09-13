@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.app.Activity;
 
-import java.lang.Object
+import java.lang.Object;
 import org.apache.cordova.*;
 
 
